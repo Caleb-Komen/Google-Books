@@ -1,2 +1,2 @@
 # Google-Books
-This is a simple app on how to use the google books API
+This is a simple app that make use of the google books API
